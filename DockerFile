@@ -1,5 +1,0 @@
-FROM ubuntu/24.04
-
-LABEL author="Arturo Carrillo Jimenez"
-LABEL description="Practica 5.2"
-LABEL version="1.1"
