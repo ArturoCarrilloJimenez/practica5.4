@@ -1,5 +1,5 @@
 docker build -t 2048:1.0 .
 
-docker tag apphola:latest arturo/apphola:latest
+docker tag 2048:latest arturocarrillojimenez/2048:latest
 
-docker push arturo/apphola:latest
+docker push arturocarrillojimenez/2048:latest
