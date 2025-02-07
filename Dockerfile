@@ -15,4 +15,4 @@ RUN git clone https://github.com/josejuansanchez/2048 && \
 
 EXPOSE 80
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx", "-g", "daemon off;"] 
